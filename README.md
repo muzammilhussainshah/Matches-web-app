@@ -1,5 +1,9 @@
 # [Assignment]
 
+## Prerequisites
+Node.js installed on your machine.
+Internet connection to fetch dependencies and APIs.
+
 ## Description
 Assignment is a web application that allows users to manage their matches and interests. Users can view their matches, see their interests, and add new interests to their profile. Whether you're looking for new connections or want to update your interests, Assignment provides a convenient platform to do so.
 
@@ -10,11 +14,15 @@ Assignment is a web application that allows users to manage their matches and in
 - ...
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository:`https://github.com/muzammilhussainshah/Matches-web-app.git`
 
 ## Available Scripts
 
 In the project directory, you can run:
+ 
+Navigate to the project directory: 
+
+### `npm install` | `yarn`
 
 ### `npm start`
 
